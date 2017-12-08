@@ -1,0 +1,22 @@
+{
+  "name": "barry-allen-cleverbot",
+  "version": "1.0.0",
+  "description": "This is just a simple bot integrated with the node package of cleverbot-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowolfyt/Barry-Allen-CleverBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowolfyt/Barry-Allen-CleverBot/issues"
+  },
+  "homepage": "https://github.com/shadowolfyt/Barry-Allen-CleverBot#readme",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11"
+  }
+}

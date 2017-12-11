@@ -22,4 +22,4 @@ client.on("message", function(message) {
   }
 );
 
-client.login(settings.token); // this links to the settings.json file where login token for the bot is stored
+client.login(settings.token);
